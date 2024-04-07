@@ -16,6 +16,13 @@ Covid Data: Primary dataset from [Our World in Data](https://ourworldindata.org/
 
 - Excel for Data cleaning
 - SQL Server Managament Studio (SSMS) for Data Exploration and Analysis
+```sql
+SELECT location, population_density, MAX (total_tests) as HighestTestCount,
+	MAX (CONVERT(float, total_tests)/NULLIF(CONVERT(float, population_density),0))*100 as PercentageTestPop
+From PortfolioProject..CovidVaccinations
+Group by location, population_density
+Order by PercentageTestPop desc;
+```
 - Tableau for Data Visualisation
 
 
