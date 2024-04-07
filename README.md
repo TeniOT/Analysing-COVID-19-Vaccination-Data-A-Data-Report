@@ -23,7 +23,7 @@ From PortfolioProject..CovidVaccinations
 Group by location, population_density
 Order by PercentageTestPop desc;
 ```
-- Tableau for Data Visualisation
+- Tableau for Data Visualisation and Forecasting trends
 
 
 ### References
