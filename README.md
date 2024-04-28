@@ -3,7 +3,7 @@
 ### Project Overview
 
 This is a data analysis project aimed to provide insights into the global cases, tests and vaccination per continent in the year 2020 and 2021. 
-By analysing various aspects of the COVID cases, tests and vaccinations data, we seek to identify trends and gain a better visualisation of cases worldwide to make future global health projection.
+By analysing various aspects of the COVID cases, tests and vaccinations data, we seek to identify trends and gain a better visualisation of worldwide dataset to make future global health projection.
 
 
 ![Tableau Viz - Covid project](https://github.com/TeniOT/SQLProject/assets/164643376/2102729a-8878-4bf6-82ca-a2c8c73e807a)
