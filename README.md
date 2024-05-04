@@ -25,7 +25,7 @@ From PortfolioProject..CovidVaccinations
 Group by location, population_density
 Order by PercentageTestPop desc;
 ```
-In this query, we retrieve vaccination data for the specified time period. The total_doses column represents the cumulative doses administered in each country.
+In this query, retrieve vaccination data per population. It represents the cumulative doses administered in each country.
 - Tableau for Data Visualisation and Forecasting trends
 
 
